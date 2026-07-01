@@ -8,4 +8,4 @@ function handleValidation(req, res, next) {
   next();
 }
 
-module.exports = { handleValidation };
+module.exports = { handleValidation }; 

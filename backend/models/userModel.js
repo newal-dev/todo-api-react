@@ -28,4 +28,4 @@ const UserModel = {
   }
 };
 
-module.exports = UserModel;
+module.exports = UserModel; 
